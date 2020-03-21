@@ -1,0 +1,5 @@
+<meta>
+	<info title="Minigames" author="Rhytz" version="1.0" description="Open world minigames" />
+	<script src="minigames_s.js" type="server" language="javascript" />
+	<script src="minigames_c.js" type="client" language="javascript" />
+</meta>
