@@ -1,0 +1,10 @@
+<!--
+  ~ Copyright (c) 2020. Rhytz
+  ~
+  ~ @link https://github.com/Rhytz/rhytz-gtac
+  -->
+
+<meta>
+    <info author="Rhytz" description="MySQL database layer" />
+    <script src="server.js" type="server" language="javascript" />
+</meta>
