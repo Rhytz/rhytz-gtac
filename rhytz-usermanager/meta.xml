@@ -1,0 +1,14 @@
+<!--
+  ~ Copyright (c) 2020. Rhytz
+  ~
+  ~ @link https://github.com/Rhytz/rhytz-gtac
+  -->
+
+<meta>
+	<info author="Rhytz" description="User manager" />
+	<script src="cryptojs/core.js" type="module" language="javascript" />
+	<script src="cryptojs/sha256.js" type="server" language="javascript" />
+	<script src="client.js" type="client" language="javascript" />
+	<script src="server.js" type="server" language="javascript" />
+	
+</meta>

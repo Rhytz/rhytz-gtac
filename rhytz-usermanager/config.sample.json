@@ -1,0 +1,9 @@
+{
+    "admin_user": "<USERNAME>",
+    "admin_password": "<PASSWORD>",
+    "sql_host": "<SQL_HOSTNAME>",
+    "sql_database": "<SQL_DATABASE_NAME>",
+    "sql_user": "<SQL_USERNAME>",
+    "sql_password": "<SQL_PASSWORD>",
+    "sql_salt": "<RANDOM_SALT_STRING>"
+}
